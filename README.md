@@ -33,3 +33,6 @@ You must give a full effort on every group and individual project. You must comp
 
 #### Important Notes
 * Live Office Hours: 45 minutes before class and 30 minutes after class
+
+-----------------------------------------
+## Curriculum By Week
