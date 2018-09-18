@@ -17,7 +17,7 @@
 
 #### Homework
 
-You must complete **90%** of the homework assignments. (You can miss **no more** than **2 assignments**.)
+You must complete **90%** of the homework assignments. (You can miss **no more** than **2 assignments**.) Aim for 100% completion.
 
 Homework submissions **must be on time AS IS**. Late submissions will not be counted.
 
@@ -29,7 +29,7 @@ Written permission must be obtained to miss class, maximum of 4 absences.
 
 #### Projects
 
-You must give a full effort on every group and individual project.  
+You must give a full effort on every group and individual project. You must complete **100%** of your projects.
 
 #### Important Notes
 * Live Office Hours: 45 minutes before class and 30 minutes after class
