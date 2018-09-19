@@ -13,6 +13,9 @@
 
 [Submit your homework here!](http://bootcampspot.com/)
 
+[Homework Week 1 instructions "Portfolio"](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/UNCHAR201809FSF3/tree/master/01-html-git-css/02-Homework/Instructions)  
+
+
 ## Minimum Requirements
 
 #### Homework
