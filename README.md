@@ -37,5 +37,9 @@ You must give a full effort on every group and individual project. You must comp
 #### Important Notes
 * Live Office Hours: 45 minutes before class and 30 minutes after class
 
+#### Class Video Sessions
+
+[1.1 Welcome/Zen of Coding September 18, 2018](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ca67a99-81a5-447e-b113-a95f017ad1d9)
+
 -----------------------------------------
 ## Curriculum By Week
