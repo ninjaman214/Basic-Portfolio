@@ -14,6 +14,8 @@
 [Homework Week 1 instructions "Portfolio"](https://unchar.bootcampcontent.com/The-Coding-Bootcamp/UNCHAR201809FSF3/tree/master/01-html-git-css/02-Homework/Instructions)  
 
 #### Resource Videos
+### [Unit 1 - HTML, CSS, and GIT](01-Class-Content/01-html-git-css/02-Homework)
+[Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorClK-ZG5jYqbdgOD2DRHROkT)
 
 ## Minimum Requirements
 
