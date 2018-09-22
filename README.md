@@ -43,9 +43,11 @@ You must give a full effort on every group and individual project. You must comp
 
 [1.1 Welcome/Zen of Coding September 18, 2018](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ca67a99-81a5-447e-b113-a95f017ad1d9)
 
+[1.2 Git'n Pro with HTML/CSS September 20, 2018]
+(https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6746b2f-2ffa-4913-9290-a961017565ba)
+
 -----------------------------------------
 ## Curriculum By Week
-
 
 |      |                                              |          |              |             | 
 |------|----------------------------------------------|----------|--------------|-------------| 
