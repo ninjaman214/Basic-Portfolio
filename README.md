@@ -45,8 +45,7 @@ You must give a full effort on every group and individual project. You must comp
 [1.2 Git'n Pro with HTML/CSS September 20, 2018]
 (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6746b2f-2ffa-4913-9290-a961017565ba)
 
-[1.3 Web Be Stylin' September 22, 2018]
-(https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=141a58e2-a17e-47df-b38f-a963012b2868)
+[1.3 Web Be Stylin' September 22, 2018] - TBA - Will add another link
 
 -----------------------------------------
 ## Curriculum By Week
