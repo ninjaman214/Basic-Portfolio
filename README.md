@@ -40,14 +40,15 @@ You must give a full effort on every group and individual project. You must comp
 
 #### Class Video Sessions
 
-[1.1 Welcome/Zen of Coding September 18, 2018](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ca67a99-81a5-447e-b113-a95f017ad1d9)
+[**1.1 Welcome/Zen of Coding September 18, 2018**](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ca67a99-81a5-447e-b113-a95f017ad1d9)
 
-[1.2 Git'n Pro with HTML/CSS September 20, 2018]
+[**1.2 Git'n Pro with HTML/CSS September 20, 2018**]
 (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6746b2f-2ffa-4913-9290-a961017565ba)
 
-1.3 Web Be Stylin' September 22, 2018
-[Part 1](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ee6ee81-a5c2-4dfc-98a6-523329b5ebb1)
-[Part 2](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08443fd-979c-4463-9336-8d649e5d362c)
+**1.3 Web Be Stylin' September 22, 2018**<br/>
+[**Part 1**](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ee6ee81-a5c2-4dfc-98a6-523329b5ebb1)
+<br/>
+[**Part 2**](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08443fd-979c-4463-9336-8d649e5d362c)
 
 -----------------------------------------
 ## Curriculum By Week
