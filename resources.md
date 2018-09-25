@@ -1,3 +1,4 @@
+[Back to main README](README.md)
 # Curriculum Resources
 
 # Table of Contents
