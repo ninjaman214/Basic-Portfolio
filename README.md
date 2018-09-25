@@ -17,6 +17,11 @@
 ### Unit 1 - HTML, CSS, and GIT
 [Complete Playlist (Exercises)](https://www.youtube.com/playlist?list=PLgJ8UgkiorClK-ZG5jYqbdgOD2DRHROkT)
 
+### Unit 2 - CSS, Bootstrap
+
+#### Resource Links
+[Curriculum Resources](UNCHAR201809FSF3/resources.md)
+
 ## Minimum Requirements
 
 #### Homework
