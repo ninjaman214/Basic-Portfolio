@@ -1,0 +1,21 @@
+header{
+    float: left;
+    color: lightblue;
+}
+li{
+    text-align:left;
+    display: block;
+
+}
+.clearfix::after{
+    clear: both;
+}
+button{
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+content{
+    box-sizing: 960px;
+}

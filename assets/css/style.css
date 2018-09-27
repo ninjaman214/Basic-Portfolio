@@ -1,0 +1,49 @@
+h1{
+    text-align: left;
+    color: #4aaaa5;
+}
+
+
+body{
+    text-align: center; 
+    width: 960px;
+    background-color: lightgrey;
+    height: 100%;
+    padding: 200px;
+       
+}
+/*The Nav bar at the top of the site*/
+ul{
+    border: 1px dotted black;
+    background-color: #cccccc;
+    height: 50px;
+    float: right;
+    text-align: center;
+}
+li {
+    position: fixed;
+    padding: 20px;
+    color: #ffffff;
+    display: inline; 
+    text-align: center;
+    
+}
+/*this is the paragraph of the website*/
+p{
+    text-align: center;
+    background-color:#ffffff;
+    border: 2px solid #dddddd;
+}
+footer {
+    position: sticky;
+    height: 20px;
+    border-top: 8px solid #4aaaa5;
+    background-color: grey;
+    text-align: center;
+
+}
+.clearfix::after {
+    clear: both;
+}
+
+
